@@ -1,2 +1,6 @@
 This is a new line appended to the file.
 This is another line appended using 'with'.
+This is a new line appended to the file.
+This is another line appended using 'with'.
+This is a new line appended to the file.
+This is another line appended using 'with'.
